@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vaibhav Vikas
+- 🧑🏻‍💻 Follow me [@vaibhavvikas](https://github.com/vaibhavvikas)
 - 👀 I’m interested in Software Development and Machine Learning!
 - 🌱 I’m currently learning Go.
 - 🧑🏻‍💻 I'm currently working @bankopen
